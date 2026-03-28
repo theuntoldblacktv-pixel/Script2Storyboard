@@ -1,0 +1,8 @@
+{
+  "name": "Script2Storyboard AI",
+  "description": "Transform your scripts into stunning cinematic storyboards using Gemini. Features professional image generation, script analysis, and an integrated AI creative assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
